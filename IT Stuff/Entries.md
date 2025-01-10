@@ -1,0 +1,2 @@
+- You can do a password on the bios
+- I
